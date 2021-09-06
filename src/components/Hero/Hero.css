@@ -1,0 +1,9 @@
+#container {
+    background-image: url("../../assets/pizza1.jpg");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
